@@ -1,4 +1,4 @@
-![alt text](https://github.com/danchev/danchev.github.io/blob/master/dino.gif?raw=true)
+![Where is my gif ?:(](https://github.com/danchev/danchev/blob/master/dino.gif?raw=true)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-openSUSE-informational?style=flat&logo=openSUSE&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Fedora-informational?style=flat&logo=Fedora&logoColor=white&color=2bbc8a)
